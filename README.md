@@ -1,5 +1,5 @@
 # OneK1K dataset Analysis
-This repository contains the results of my internship at the Division of Computational Genomics and Systems Genetics (DKFZ, Prof. Dr. Stelge).
+This repository contains the results of my internship at the Division of Computational Genomics and Systems Genetics (DKFZ, Prof. Dr. Stelge, supervisor: Dr. Ueltzhöffer).
 
 Contents:
 - `Explorative-analysis.ipynb`: plots comparing RNA expression of single cells with different eQTLs. The eQTLs were selected either by q-value from the eQTL analysis or by the results of the t-test.
